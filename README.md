@@ -3,6 +3,7 @@
 A very basic graph server for testing the api
 
 ## Bulding
+Building will create a dynamic code directory called `graph`. This directory is not checked in, but if something is needed it can be commited.
 
     `go build server.go`
 
